@@ -1,0 +1,7 @@
+node_modules
+logs
+botinfo.txt
+package-lock.json
+auth.json
+.env
+SaltIDs.txt
